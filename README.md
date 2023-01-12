@@ -4,6 +4,8 @@
 
 In this project I developed the product card layout.
 
+Link in [Netlify](https://productcard-boracodar-vagnernerves.netlify.app/)
+
 <!-- ## 🎥 Implementation Video
 
 In the GitHub edit, drag the video that it already puts on github itself. -->
@@ -85,4 +87,4 @@ Start the server
 
 ## 🌎 License
 
-This project is under the MIT license. See the [LICENSE](https://choosealicense.com/licenses/mit/) file for more details.
+This project is under the MIT license. See the [LICENSE](https://github.com/VagnerNerves/productcard-boracodar/blob/master/LICENSE) file for more details.
