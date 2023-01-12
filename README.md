@@ -6,9 +6,10 @@ In this project I developed the product card layout.
 
 Link in [Netlify](https://productcard-boracodar-vagnernerves.netlify.app/)
 
-<!-- ## 🎥 Implementation Video
+## 🎥 Implementation Video
 
-In the GitHub edit, drag the video that it already puts on github itself. -->
+https://user-images.githubusercontent.com/40831841/212190457-a567f813-8c3a-49e1-b4da-959073d737cd.mp4
+
 
 ## 🎨 Layout
 
